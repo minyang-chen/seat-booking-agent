@@ -1,0 +1,6 @@
+chainlit
+openai-agents
+autogen-agentchat
+autogen-ext[mcp]
+autogen-ext[openai]
+autogen-ext[ollama]
