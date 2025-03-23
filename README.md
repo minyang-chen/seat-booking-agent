@@ -41,4 +41,19 @@ chainlit run app.py
 - add MCP tools to invoke actual booking service api 
 - more to came...
 
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+**Important**: Please keep your pull requests small and focused.  This will make it easier to review and merge.
+
+## Feature Requests
+If you have a feature request, please open an [issue](https://github.com/minyang-chen/seat-booking-agent/issues) and make sure it is tagged with `enhancement`.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
