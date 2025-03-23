@@ -34,4 +34,11 @@ pip install -r requirements.txt
 chainlit run app.py
 ```
 
+### Todos
+- save seat history at the end of the booking
+- improve FAQ agent to use RAG on actual documents
+- improve memory storage
+- add MCP tools to invoke actual booking service api 
+- more to came...
+
 
